@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 
   public class RoomNumber
-    {
+  {
     private readonly helperMethods _helperMethods = new helperMethods();
 
     public int numberOfSets(int roomNumber) {
@@ -29,8 +29,8 @@ using System.Threading.Tasks;
                 result = Math.Max(result, digits[i]);
             }
             return result;
-        }
     }
+  }
 
 public static class Globals
 {
