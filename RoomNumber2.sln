@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoomNumber2", "RoomNumber2\RoomNumber2.csproj", "{A775FAA3-99BB-431E-A1BA-71E73A850547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRoomNumber", "TestRoomNumber\TestRoomNumber.csproj", "{EC84778C-BA4F-492D-B490-D25BFE8F7C7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CA20241F-6B6B-4B29-A72A-E1A603153D69}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A775FAA3-99BB-431E-A1BA-71E73A850547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A775FAA3-99BB-431E-A1BA-71E73A850547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A775FAA3-99BB-431E-A1BA-71E73A850547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A775FAA3-99BB-431E-A1BA-71E73A850547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC84778C-BA4F-492D-B490-D25BFE8F7C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC84778C-BA4F-492D-B490-D25BFE8F7C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC84778C-BA4F-492D-B490-D25BFE8F7C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC84778C-BA4F-492D-B490-D25BFE8F7C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC4940C-BF93-486E-9C7E-F9099F0F442E}
+	EndGlobalSection
+EndGlobal
